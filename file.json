@@ -1,3 +1,26 @@
 {
-  "status": true,
+  "status": "success",
+  "data": {
+    "users": [
+      {
+        "ip": 1,
+      },
+      {
+        "ip": 2,
+      },
+      {
+        "ip": 3,
+      },
+      {
+        "ip": 4,
+      },
+      {
+        "ip": 5,
+      }
+    ],
+    "config": {
+      "version": "1.0.0",
+      "theme": "dark"
+    }
+  }
 }
